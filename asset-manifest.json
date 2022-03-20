@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/poster-shop/static/css/main.ae3de931.css",
+    "main.js": "/poster-shop/static/js/main.350725a7.js",
+    "static/media/poster_earth_front_g.jpg": "/poster-shop/static/media/poster_earth_front_g.55d4bca15f80795da107.jpg",
+    "static/media/poster_mars_back.jpg": "/poster-shop/static/media/poster_mars_back.afcdc700ee34a784c734.jpg",
+    "static/media/poster_uranus_back.jpg": "/poster-shop/static/media/poster_uranus_back.c4f82b57053cb03770fc.jpg",
+    "static/media/poster_mercury_back.jpg": "/poster-shop/static/media/poster_mercury_back.98ff599d0fedbd6eb3f4.jpg",
+    "static/media/poster_earth_back.jpg": "/poster-shop/static/media/poster_earth_back.998fdbbae2ae5964d1cb.jpg",
+    "static/media/poster_venus_back.jpg": "/poster-shop/static/media/poster_venus_back.4bacb614d00894560eef.jpg",
+    "static/media/poster_saturn_back.jpg": "/poster-shop/static/media/poster_saturn_back.d12d5adb686b36559a52.jpg",
+    "static/media/poster_neptune_back.jpg": "/poster-shop/static/media/poster_neptune_back.3abe4b8ac23c69a091a4.jpg",
+    "static/media/poster_jupiter_back.jpg": "/poster-shop/static/media/poster_jupiter_back.2a7aff870616158f37f2.jpg",
+    "static/media/night-sky.jpg": "/poster-shop/static/media/night-sky.13524872f3dad93a29ec.jpg",
+    "static/media/poster_venus_front_a.jpg": "/poster-shop/static/media/poster_venus_front_a.4a78b7ce84250bd7b41b.jpg",
+    "static/media/poster_mercury_front_a.jpg": "/poster-shop/static/media/poster_mercury_front_a.fd838ed09ad51d8db34d.jpg",
+    "static/media/poster_earth_front_a.jpg": "/poster-shop/static/media/poster_earth_front_a.12bd73f077f81d06321f.jpg",
+    "static/media/poster_mars_front_a.jpg": "/poster-shop/static/media/poster_mars_front_a.a99ff3448240111965a1.jpg",
+    "static/media/poster_neptune_front_a.jpg": "/poster-shop/static/media/poster_neptune_front_a.f526fc03f055b1680b18.jpg",
+    "static/media/poster_jupiter_front_a.jpg": "/poster-shop/static/media/poster_jupiter_front_a.43053e176d4f18080e80.jpg",
+    "static/media/poster_saturn_front_a.jpg": "/poster-shop/static/media/poster_saturn_front_a.d353d00380c87960869f.jpg",
+    "static/media/poster_uranus_front_a.jpg": "/poster-shop/static/media/poster_uranus_front_a.3b3db79ddc7f814f7b69.jpg",
+    "index.html": "/poster-shop/index.html",
+    "main.ae3de931.css.map": "/poster-shop/static/css/main.ae3de931.css.map",
+    "main.350725a7.js.map": "/poster-shop/static/js/main.350725a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae3de931.css",
+    "static/js/main.350725a7.js"
+  ]
+}
