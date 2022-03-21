@@ -21,6 +21,10 @@ export const Nav = styled.nav`
       text-transform: uppercase;
       text-decoration: none;
 
+      @media (max-width: 500px) {
+        font-size: 16px;
+      }
+
       transition: 0.5s;
 
       &:hover {

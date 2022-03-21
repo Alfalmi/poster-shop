@@ -25,11 +25,18 @@ export const Container = styled.div`
   padding: 20px 40px;
 
   background-color: var(--white);
+
+  @media (max-width: 500px) {
+    flex-direction: column;
+  }
 `;
 
 export const MainImage = styled.img`
   flex-grow: 0;
   max-height: calc(100vh - 128px);
+  @media (max-width: 500px) {
+    max-height: calc(75vh - 54px);
+  }
 `;
 
 export const ItemDetails = styled.div`
@@ -39,6 +46,12 @@ export const ItemDetails = styled.div`
 
   width: 400px;
   padding: 0 20px 0 40px;
+
+  @media (max-width: 500px) {
+    width: 350px;
+    padding: 0 20px 0 40px;
+    flex-direction: column;
+  }
 
   h1,
   p,
