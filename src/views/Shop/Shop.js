@@ -31,7 +31,7 @@ function Shop() {
       initial={{ opacity: 0 }}
     >
       <Container>
-        <CollectionTitle>Collection || Planets</CollectionTitle>
+        <CollectionTitle>Gallery || Planets</CollectionTitle>
 
         <ItemsContainer>
           {planets.map((planet) => {

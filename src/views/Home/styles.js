@@ -30,7 +30,7 @@ export const Container = styled(motion.div)`
 
   h1 {
     font-family: "Big Shoulders Stencil Display", monospace;
-    font-size: 55px;
+    font-size: 75px;
     letter-spacing: 10px;
     background-color: var(--deep-black);
     padding: 6px 8px 6px 14px;

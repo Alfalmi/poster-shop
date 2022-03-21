@@ -10,11 +10,11 @@ function Home() {
       initial={{ opacity: 0 }}
     >
       <h1>Planetarium</h1>
-      <h2>"The Earth is a very small stage in a vast cosmic arena."</h2>
+      <h2>"The earth is a very small stage in a vast cosmic arena."</h2>
 
       <div>
         <ArrowRight />
-        <Link to="/shop">visit the shop</Link>
+        <Link to="/shop">Visit the store</Link>
         <ArrowLeft />
       </div>
     </Container>

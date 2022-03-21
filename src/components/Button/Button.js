@@ -6,10 +6,10 @@ export const Button = styled.button`
   background-color: ${(props) =>
     props.primary ? "var(--black)" : "var(--white)"};
   border: 2px solid var(--black);
-  border-radius: 3px;
+  border-radius: 10px;
 
-  font-size: ${(props) => (props.small ? "13px" : "18px")};
-  padding: ${(props) => (props.small ? "4px 8px" : "8px 16px")};
+  font-size: ${(props) => (props.small ? "12px" : "18px")};
+  padding: ${(props) => (props.small ? "5px 8px" : "8px 16px")};
 
   transition: 0.2s;
 

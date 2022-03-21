@@ -36,7 +36,7 @@ function ShopItem({ itemId, addItemToCart }) {
           <p>
             <strong>About the image: </strong>
             {item.description ||
-              "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore et odio porro numquam laboriosam consectetur optio. Magni est quam vero error harum commodi quos doloremque possimus. Accusantium laboriosam sed vero."}
+              "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
           </p>
 
           <div className="buttons-wrapper">
@@ -47,7 +47,7 @@ function ShopItem({ itemId, addItemToCart }) {
             <div>
               {showCheckoutBtn && (
                 <Button primary small>
-                  <Link to="/checkout">Proceed to checkout</Link>
+                  <Link to="/checkout">Go to checkout</Link>
                 </Button>
               )}
 
