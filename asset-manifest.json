@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/poster-shop/static/css/main.002c87c9.chunk.css",
-    "main.js": "/poster-shop/static/js/main.605aa9fc.chunk.js",
-    "main.js.map": "/poster-shop/static/js/main.605aa9fc.chunk.js.map",
-    "runtime-main.js": "/poster-shop/static/js/runtime-main.63ebf995.js",
-    "runtime-main.js.map": "/poster-shop/static/js/runtime-main.63ebf995.js.map",
-    "static/js/2.0ff40162.chunk.js": "/poster-shop/static/js/2.0ff40162.chunk.js",
-    "static/js/2.0ff40162.chunk.js.map": "/poster-shop/static/js/2.0ff40162.chunk.js.map",
+    "main.js": "/poster-shop/static/js/main.508d878d.chunk.js",
+    "main.js.map": "/poster-shop/static/js/main.508d878d.chunk.js.map",
+    "runtime-main.js": "/poster-shop/static/js/runtime-main.7312645d.js",
+    "runtime-main.js.map": "/poster-shop/static/js/runtime-main.7312645d.js.map",
+    "static/js/2.f95a734d.chunk.js": "/poster-shop/static/js/2.f95a734d.chunk.js",
+    "static/js/2.f95a734d.chunk.js.map": "/poster-shop/static/js/2.f95a734d.chunk.js.map",
     "index.html": "/poster-shop/index.html",
     "static/css/main.002c87c9.chunk.css.map": "/poster-shop/static/css/main.002c87c9.chunk.css.map",
-    "static/js/2.0ff40162.chunk.js.LICENSE.txt": "/poster-shop/static/js/2.0ff40162.chunk.js.LICENSE.txt",
+    "static/js/2.f95a734d.chunk.js.LICENSE.txt": "/poster-shop/static/js/2.f95a734d.chunk.js.LICENSE.txt",
     "static/media/National-Geographic-Poster-Cielo.jpg": "/poster-shop/static/media/National-Geographic-Poster-Cielo.c58a8ed4.jpg",
     "static/media/National-Geographic-Poster-Luna (1).jpg": "/poster-shop/static/media/National-Geographic-Poster-Luna (1).0abac2d7.jpg",
     "static/media/National-Geographic-Poster-Luna (1).hjpg.webp": "/poster-shop/static/media/National-Geographic-Poster-Luna (1).hjpg.620c8b47.webp",
@@ -51,9 +51,9 @@
     "static/media/venuss.jpg": "/poster-shop/static/media/venuss.f8eb524f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.63ebf995.js",
-    "static/js/2.0ff40162.chunk.js",
+    "static/js/runtime-main.7312645d.js",
+    "static/js/2.f95a734d.chunk.js",
     "static/css/main.002c87c9.chunk.css",
-    "static/js/main.605aa9fc.chunk.js"
+    "static/js/main.508d878d.chunk.js"
   ]
 }
